@@ -176,6 +176,12 @@ body {
     line-height: 25px;
 }
 
+.services .service a {
+    color: #6EBF6F;
+    font-weight: bold;
+    font-size: 30px;
+}
+
 .services .service:nth-child(1) {
     background-color: lightskyblue;
 }
